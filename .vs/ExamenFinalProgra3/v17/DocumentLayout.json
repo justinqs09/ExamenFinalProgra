@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\proyecto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\proyecto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\controllers\\asignacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\controllers\\asignacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\models\\asignaciondeproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\models\\asignaciondeproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\asignacion\\verasignaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\asignacion\\verasignaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\asignacion\\asignar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\asignacion\\asignar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\proyecto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\proyecto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\empleado\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\empleado\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|c:\\users\\justin\u00B4s pc\\source\\repos\\examenfinalprogra3\\examenfinalprogra3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AABE488-9009-41F8-B542-AD5BEBA7BABA}|ExamenFinalProgra3\\ExamenFinalProgra3.csproj|solutionrelative:examenfinalprogra3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:01:28.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:52:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\appsettings.json",
+              "RelativeToolTip": "ExamenFinalProgra3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T02:49:17.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Asignar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Asignacion\\Asignar.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Asignacion\\Asignar.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Asignacion\\Asignar.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Asignacion\\Asignar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:46:12.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerAsignaciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Asignacion\\VerAsignaciones.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Asignacion\\VerAsignaciones.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Asignacion\\VerAsignaciones.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Asignacion\\VerAsignaciones.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:43:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsignacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\AsignacionController.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Controllers\\AsignacionController.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\AsignacionController.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Controllers\\AsignacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:40:02.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsignacionDeProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Models\\AsignacionDeProyecto.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Models\\AsignacionDeProyecto.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Models\\AsignacionDeProyecto.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Models\\AsignacionDeProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:39:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:23:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Program.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Program.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:05:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Proyecto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Proyecto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Proyecto\\Index.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Proyecto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:04:56.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProyectoController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\ProyectoController.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Controllers\\ProyectoController.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\ProyectoController.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Controllers\\ProyectoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:04:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Models\\Proyecto.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:04:08.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Models\\Empleado.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:56:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "ExamenFinalProgra3\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:55:01.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:56:04.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Proyecto\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Proyecto\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Proyecto\\Crear.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Proyecto\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:05:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Empleado\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Empleado\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Empleado\\Crear.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Empleado\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:59:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:09:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:09:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:57:11.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinalProgra3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Justin\u00B4s PC\\source\\repos\\ExamenFinalProgra3\\ExamenFinalProgra3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamenFinalProgra3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:56:44.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
